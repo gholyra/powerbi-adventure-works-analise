@@ -17,3 +17,5 @@ Trabalho de análise de vendas do banco de dados Adventure Works disponibilizado
     Assim, partindo de tabelas de Excel disponibilizadas pelo repositório da Microsoft, realizando cálculos com fórmulas DAX, relacionando tabelas, criando hierarquias       de colunas e filtrando dados dos visuais, foi desenvolvido um dashboard através da ferramenta Power BI para a apresentação de dados e análise de vendas direcionada       da empresa fictícia Adventure Works. 
   </p>
 </div>
+
+Link para acesso ao dashboard pela web: https://app.powerbi.com/view?r=eyJrIjoiYTc0ZDhiNjMtNWE5Yy00OTJlLTk3NTQtNDNlMjg3NDA5ZDU5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
