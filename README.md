@@ -20,6 +20,6 @@ Trabalho de análise de vendas do banco de dados Adventure Works disponibilizado
 
 <div>
   <p>
-    Link para acesso ao dashboard pela web: <a href="https://app.powerbi.com/view?      r=eyJrIjoiYTc0ZDhiNjMtNWE5Yy00OTJlLTk3NTQtNDNlMjg3NDA5ZDU5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="_blank">Dashboard de Vendas da Adventure Works</a>
+    Link para acesso ao dashboard pela web: <a href="https://app.powerbi.com/view?      r=eyJrIjoiYTc0ZDhiNjMtNWE5Yy00OTJlLTk3NTQtNDNlMjg3NDA5ZDU5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="blank">Dashboard de Vendas da Adventure Works</a>
   </p>
 </div>
